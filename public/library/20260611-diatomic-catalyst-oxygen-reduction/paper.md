@@ -31,106 +31,139 @@
 | Co-N-Mn/NC | Co-N-Mn/NC 双原子催化剂 | 机器学习预测并实验合成验证的最优 ORR 催化剂。 |
 | zinc-air battery, ZAB | 锌空气电池 | 用于展示催化剂器件层面性能。 |
 
-## Page Visual Guide / 页面图示对照
+## Figure Guide / ????
+
+> Figures are cropped individually from the source PDF and placed here as figure-level reading anchors; they are not full-page screenshots.
+
+> ???????? PDF ???????????????????????
 
 <a id="F001"></a>
-### Page 1 visual reference
 
-![Page 1 visual reference](assets/page-01.png)
+### Fig. 1 | DFT-ML-experiment workflow
 
-**Original caption:** Full-page visual reference for page 1, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 1 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 1 | DFT-ML-experiment workflow](assets/fig-01.png)
+
+
+**Original caption:** Fig. 1 | Schematic of the workflow based on the DFT-ML-experiment method to achieve a principle coupling of geometric and electronic parameters for the design of M1-N-M2/NCs. Some elements in this scheme were created using BioGDP.com (https://BioGDP.com).
+
+
+**????:** ? 1 | ?? DFT-ML-????????????????? M1-N-M2/NC ???????????????????????????? BioGDP.com ???
+
+
+**Reading note / ????:** ???????????? ML ???????????DFT??????????????????
 
 <a id="F002"></a>
-### Page 2 visual reference
 
-![Page 2 visual reference](assets/page-02.png)
+### Fig. 2 | Data generation and pretreatment
 
-**Original caption:** Full-page visual reference for page 2, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 2 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 2 | Data generation and pretreatment](assets/fig-02.png)
+
+
+**Original caption:** Fig. 2 | The generation and pretreatment of the data. a Schematic structure of M1-N-M2/NCs and element type of metal atom. b Binding energies and formation energies of MNC and part of the randomly combined M1-N-M2/NCs. c The overpotentials of part of the randomly combined M1-N-M2/NCs. d Pearson correlation map between each of the 16 features. Source data are provided as a Source Data file.
+
+
+**????:** ? 2 | ?????????a M1-N-M2/NCs ??????????????b MNC ??????? M1-N-M2/NCs ?????????c ?????? M1-N-M2/NCs ?????d 16 ?????? Pearson ???????? Source Data ???
+
+
+**Reading note / ????:** ?????????????????????????????? 16 ???????
 
 <a id="F003"></a>
-### Page 3 visual reference
 
-![Page 3 visual reference](assets/page-03.png)
+### Fig. 3 | Machine-learning training and prediction
 
-**Original caption:** Full-page visual reference for page 3, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 3 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 3 | Machine-learning training and prediction](assets/fig-03.png)
+
+
+**Original caption:** Fig. 3 | Machine learning training and prediction. a Comparison of the RMSE and the R2 score for each model on the train set and the test set. b Comparison of DFT calculated overpotential values with those predicted by the best-performing GBR model. c ML predicted overpotential heatmap of all M1-N-M2/NCs in this system. d DFT calculations verified that ML predicted the best performing 10 M1-N-M2/NCs with overpotentials. Source data are provided as a Source Data file.
+
+
+**????:** ? 3 | ??????????a ????????????? RMSE ? R2?b DFT ???????? GBR ?????????c ML ?????? M1-N-M2/NCs ?????????d DFT ?? ML ??? 10 ???? M1-N-M2/NCs ?????????? Source Data ???
+
+
+**Reading note / ????:** ?????????????????????????????? DFT ???
 
 <a id="F004"></a>
-### Page 4 visual reference
 
-![Page 4 visual reference](assets/page-04.png)
+### Fig. 4 | Key factors and hot-spot map
 
-**Original caption:** Full-page visual reference for page 4, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 4 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 4 | Key factors and hot-spot map](assets/fig-04.png)
+
+
+**Original caption:** Fig. 4 | Analysis of key factors affecting catalytic performance. a SHAP summary plot of the GBR model for ORR overpotentials. b Hot spot plot of ML predicted overpotential as a function of dM1-M2 and MagM1 features by M1-N-M2/NCs (M1 = Co, Rh, Ir). Source data are provided as a Source Data file.
+
+
+**????:** ? 4 | ??????????????a ORR ??? GBR ??? SHAP ????b ? M1-N-M2/NCs?M1 = Co?Rh?Ir??? dM1-M2 ? MagM1 ?????? ML ????????????? Source Data ???
+
+
+**Reading note / ????:** ??????????????????????????? dM1-M2 ????? MagM1 ??????
 
 <a id="F005"></a>
-### Page 5 visual reference
 
-![Page 5 visual reference](assets/page-05.png)
+### Fig. 5 | Characterization of Co-N-Mn/NC
 
-**Original caption:** Full-page visual reference for page 5, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 5 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 5 | Characterization of Co-N-Mn/NC](assets/fig-05.png)
+
+
+**Original caption:** Fig. 5 | Characterization of Co-N-Mn/NC catalyst. a TEM and b AC HAADF-STEM images of Co-N-Mn/NC catalyst. c The intensity profiles obtained on site A and site B. d Corresponding EDS mapping images of Co-N-Mn/NC catalyst. e The EXAFS spectra of Co K-edge in R space. f The EXAFS spectra of Mn K-edge in R space. g The R-space EXAFS fitting curves of the Co-N-Mn/NC at Co K-edge. Inset: Schematic diagram of the Co-N-Mn/NC structure. h The R-space EXAFS fitting curves of the Co-N-Mn/NC at Mn K-edge. Source data are provided as a Source Data file.
+
+
+**????:** ? 5 | Co-N-Mn/NC ?????????a TEM ? b AC HAADF-STEM ???c ?? A ? B ??????d ?? EDS ?????e Co K-edge ? R ??? EXAFS ??f Mn K-edge ? R ??? EXAFS ??g Co-N-Mn/NC ? Co K-edge ? R ?? EXAFS ????????????h Mn K-edge ? R ?? EXAFS ??????? Source Data ???
+
+
+**Reading note / ????:** ????????????????????????????????????? EXAFS ???
 
 <a id="F006"></a>
-### Page 6 visual reference
 
-![Page 6 visual reference](assets/page-06.png)
+### Fig. 6 | ORR electrochemical activity
 
-**Original caption:** Full-page visual reference for page 6, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 6 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 6 | ORR electrochemical activity](assets/fig-06.png)
+
+
+**Original caption:** Fig. 6 | Electrochemical activity of Co-N-Mn/NC catalyst. a iR-corrected RDE polarization curves of Co-N-Mn/NC, CoNC, MnNC, NC, and Pt/C catalysts (scan rate: 5 mV s?1, rotation rate: 1600 rpm). b Comparison of E1/2 and Jk at 0.85 V for the different catalysts. c Corresponding Tafel plots derived from the RDE polarization curves for the different catalysts. The error bars are the standard deviations of three individual calculations. d Electron transfer number (n) and H2O2 yield of Co-N-Mn/NC and the reference catalysts. e Accelerated durability test of Co-N-Mn/NC catalyst before and after 10,000 continuous CV cycles ranging from 0.7 to 1.0 V (vs. RHE). Inset: accelerated durability test of Pt/C catalyst. f Chronoamperometric test of Co-N-Mn/NC and Pt/C catalysts at 0.7 V. Source data are provided as a Source Data file.
+
+
+**????:** ? 6 | Co-N-Mn/NC ???? ORR ??????a Co-N-Mn/NC?CoNC?MnNC?NC ? Pt/C ? iR ?? RDE ?????b ????? E1/2 ? 0.85 V ? Jk ????c ? RDE ??????? Tafel ?????????????????d Co-N-Mn/NC ???????????? n ? H2O2 ???e 0.7?1.0 V?vs. RHE??? 10000 ? CV ?????????????? Pt/C?f 0.7 V ? Co-N-Mn/NC ? Pt/C ???????????? Source Data ???
+
+
+**Reading note / ????:** ???????????????????? Co-N-Mn/NC ? ORR ??????
 
 <a id="F007"></a>
-### Page 7 visual reference
 
-![Page 7 visual reference](assets/page-07.png)
+### Fig. 7 | Zinc-air battery performance
 
-**Original caption:** Full-page visual reference for page 7, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 7 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 7 | Zinc-air battery performance](assets/fig-07.png)
+
+
+**Original caption:** Fig. 7 | Zinc air battery based on Co-N-Mn/NC catalyst. a An open-circuit voltage. Inset: schematic illustration of a ZAB. b Polarization curve and the recorded power density for the Co-N-Mn/NC or commercial Pt/C catalyst-based ZAB, respectively. c Rate performance of the ZABs with Co-N-Mn/NC or commercial Pt/C as air cathode at different current densities. d Galvanostatic discharge curves of Co-N-Mn/NC or commercial Pt/C-based ZAB at j = 10 mA cm?2. e Long-term discharge-charge curves at j = 5 mA cm?2 for ZABs with Co-N-Mn/NC + IrO2 and commercial Pt/C + IrO2. Inset: the corresponding voltage efficiency curves during the cycling test. Source data are provided as a Source Data file.
+
+
+**????:** ? 7 | ?? Co-N-Mn/NC ??????????a ???????? ZAB ????b ?? Co-N-Mn/NC ??? Pt/C ???? ZAB ??????????c ? Co-N-Mn/NC ??? Pt/C ????????????????????d j = 10 mA cm?2 ??????????e j = 5 mA cm?2 ? Co-N-Mn/NC + IrO2 ??? Pt/C + IrO2 ?????????????????????????? Source Data ???
+
+
+**Reading note / ????:** ?????????????????????????????????????
 
 <a id="F008"></a>
-### Page 8 visual reference
 
-![Page 8 visual reference](assets/page-08.png)
+### Fig. 8 | Comparison with reported methods and catalysts
 
-**Original caption:** Full-page visual reference for page 8, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 8 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+![Fig. 8 | Comparison with reported methods and catalysts](assets/fig-08.png)
 
-<a id="F009"></a>
-### Page 9 visual reference
 
-![Page 9 visual reference](assets/page-09.png)
+**Original caption:** Fig. 8 | Comparison of design method and catalyst performance. a Comparison of theoretical overpotential values for Co-N-Mn/NC and catalysts in literature. b Comparison of the average computation costs for predicting the ORR catalytic activity of residual M1-N-M2/NC using pure DFT calculation and ML prediction. c Comparison of the Jk and E1/2 values between Co-N-Mn/NC and the catalysts reported recently. d Comparison of peak power density and specific capacity of Co-N-Mn/NC and recently reported highly active catalysts. The detailed data and references for comparison can be seen in the Supplementary Information tables. Source data are provided as a Source Data file.
 
-**Original caption:** Full-page visual reference for page 9, retained so figures, schemes, and tables can be inspected next to the bilingual text.
 
-**中文图注:** 第 9 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+**????:** ? 8 | ?????????????a Co-N-Mn/NC ??????????????b ??? DFT ? ML ???? M1-N-M2/NC ? ORR ??????????????c Co-N-Mn/NC ????????? Jk ? E1/2 ???d Co-N-Mn/NC ??????????????????????????????????????????? Source Data ???
 
-<a id="F010"></a>
-### Page 10 visual reference
 
-![Page 10 visual reference](assets/page-10.png)
-
-**Original caption:** Full-page visual reference for page 10, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 10 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F011"></a>
-### Page 11 visual reference
-
-![Page 11 visual reference](assets/page-11.png)
-
-**Original caption:** Full-page visual reference for page 11, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 11 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
+**Reading note / ????:** ???????????????ML-DFT ???????? Co-N-Mn/NC ? ORR/ZAB ????????
 
 ## Bilingual Reader / 逐段中英对照
 

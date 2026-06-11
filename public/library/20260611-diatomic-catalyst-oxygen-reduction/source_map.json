@@ -4,7 +4,7 @@
   "date": "2025-06-04",
   "doi": "10.1038/s41467-025-60170-0",
   "paragraph_count": 54,
-  "figure_count": 11,
+  "figure_count": 8,
   "body_pairs": [
     {
       "id": "S001",
@@ -550,91 +550,83 @@
   "figures": [
     {
       "id": "F001",
-      "page": 1,
-      "file": "assets/page-01.png",
-      "title": "Page 1 visual reference",
-      "caption": "Full-page visual reference for page 1, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 1 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 2,
+      "file": "assets/fig-01.png",
+      "title": "Fig. 1 | DFT-ML-experiment workflow",
+      "caption": "Fig. 1 | Schematic of the workflow based on the DFT-ML-experiment method to achieve a principle coupling of geometric and electronic parameters for the design of M1-N-M2/NCs. Some elements in this scheme were created using BioGDP.com (https://BioGDP.com).",
+      "caption_zh": "? 1 | ?? DFT-ML-????????????????? M1-N-M2/NC ???????????????????????????? BioGDP.com ???",
+      "reading_note_zh": "???????????? ML ???????????DFT??????????????????",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F002",
-      "page": 2,
-      "file": "assets/page-02.png",
-      "title": "Page 2 visual reference",
-      "caption": "Full-page visual reference for page 2, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 2 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 3,
+      "file": "assets/fig-02.png",
+      "title": "Fig. 2 | Data generation and pretreatment",
+      "caption": "Fig. 2 | The generation and pretreatment of the data. a Schematic structure of M1-N-M2/NCs and element type of metal atom. b Binding energies and formation energies of MNC and part of the randomly combined M1-N-M2/NCs. c The overpotentials of part of the randomly combined M1-N-M2/NCs. d Pearson correlation map between each of the 16 features. Source data are provided as a Source Data file.",
+      "caption_zh": "? 2 | ?????????a M1-N-M2/NCs ??????????????b MNC ??????? M1-N-M2/NCs ?????????c ?????? M1-N-M2/NCs ?????d 16 ?????? Pearson ???????? Source Data ???",
+      "reading_note_zh": "?????????????????????????????? 16 ???????",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F003",
-      "page": 3,
-      "file": "assets/page-03.png",
-      "title": "Page 3 visual reference",
-      "caption": "Full-page visual reference for page 3, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 3 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 4,
+      "file": "assets/fig-03.png",
+      "title": "Fig. 3 | Machine-learning training and prediction",
+      "caption": "Fig. 3 | Machine learning training and prediction. a Comparison of the RMSE and the R2 score for each model on the train set and the test set. b Comparison of DFT calculated overpotential values with those predicted by the best-performing GBR model. c ML predicted overpotential heatmap of all M1-N-M2/NCs in this system. d DFT calculations verified that ML predicted the best performing 10 M1-N-M2/NCs with overpotentials. Source data are provided as a Source Data file.",
+      "caption_zh": "? 3 | ??????????a ????????????? RMSE ? R2?b DFT ???????? GBR ?????????c ML ?????? M1-N-M2/NCs ?????????d DFT ?? ML ??? 10 ???? M1-N-M2/NCs ?????????? Source Data ???",
+      "reading_note_zh": "?????????????????????????????? DFT ???",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F004",
-      "page": 4,
-      "file": "assets/page-04.png",
-      "title": "Page 4 visual reference",
-      "caption": "Full-page visual reference for page 4, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 4 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 5,
+      "file": "assets/fig-04.png",
+      "title": "Fig. 4 | Key factors and hot-spot map",
+      "caption": "Fig. 4 | Analysis of key factors affecting catalytic performance. a SHAP summary plot of the GBR model for ORR overpotentials. b Hot spot plot of ML predicted overpotential as a function of dM1-M2 and MagM1 features by M1-N-M2/NCs (M1 = Co, Rh, Ir). Source data are provided as a Source Data file.",
+      "caption_zh": "? 4 | ??????????????a ORR ??? GBR ??? SHAP ????b ? M1-N-M2/NCs?M1 = Co?Rh?Ir??? dM1-M2 ? MagM1 ?????? ML ????????????? Source Data ???",
+      "reading_note_zh": "??????????????????????????? dM1-M2 ????? MagM1 ??????",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F005",
-      "page": 5,
-      "file": "assets/page-05.png",
-      "title": "Page 5 visual reference",
-      "caption": "Full-page visual reference for page 5, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 5 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 6,
+      "file": "assets/fig-05.png",
+      "title": "Fig. 5 | Characterization of Co-N-Mn/NC",
+      "caption": "Fig. 5 | Characterization of Co-N-Mn/NC catalyst. a TEM and b AC HAADF-STEM images of Co-N-Mn/NC catalyst. c The intensity profiles obtained on site A and site B. d Corresponding EDS mapping images of Co-N-Mn/NC catalyst. e The EXAFS spectra of Co K-edge in R space. f The EXAFS spectra of Mn K-edge in R space. g The R-space EXAFS fitting curves of the Co-N-Mn/NC at Co K-edge. Inset: Schematic diagram of the Co-N-Mn/NC structure. h The R-space EXAFS fitting curves of the Co-N-Mn/NC at Mn K-edge. Source data are provided as a Source Data file.",
+      "caption_zh": "? 5 | Co-N-Mn/NC ?????????a TEM ? b AC HAADF-STEM ???c ?? A ? B ??????d ?? EDS ?????e Co K-edge ? R ??? EXAFS ??f Mn K-edge ? R ??? EXAFS ??g Co-N-Mn/NC ? Co K-edge ? R ?? EXAFS ????????????h Mn K-edge ? R ?? EXAFS ??????? Source Data ???",
+      "reading_note_zh": "????????????????????????????????????? EXAFS ???",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F006",
-      "page": 6,
-      "file": "assets/page-06.png",
-      "title": "Page 6 visual reference",
-      "caption": "Full-page visual reference for page 6, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 6 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 7,
+      "file": "assets/fig-06.png",
+      "title": "Fig. 6 | ORR electrochemical activity",
+      "caption": "Fig. 6 | Electrochemical activity of Co-N-Mn/NC catalyst. a iR-corrected RDE polarization curves of Co-N-Mn/NC, CoNC, MnNC, NC, and Pt/C catalysts (scan rate: 5 mV s?1, rotation rate: 1600 rpm). b Comparison of E1/2 and Jk at 0.85 V for the different catalysts. c Corresponding Tafel plots derived from the RDE polarization curves for the different catalysts. The error bars are the standard deviations of three individual calculations. d Electron transfer number (n) and H2O2 yield of Co-N-Mn/NC and the reference catalysts. e Accelerated durability test of Co-N-Mn/NC catalyst before and after 10,000 continuous CV cycles ranging from 0.7 to 1.0 V (vs. RHE). Inset: accelerated durability test of Pt/C catalyst. f Chronoamperometric test of Co-N-Mn/NC and Pt/C catalysts at 0.7 V. Source data are provided as a Source Data file.",
+      "caption_zh": "? 6 | Co-N-Mn/NC ???? ORR ??????a Co-N-Mn/NC?CoNC?MnNC?NC ? Pt/C ? iR ?? RDE ?????b ????? E1/2 ? 0.85 V ? Jk ????c ? RDE ??????? Tafel ?????????????????d Co-N-Mn/NC ???????????? n ? H2O2 ???e 0.7?1.0 V?vs. RHE??? 10000 ? CV ?????????????? Pt/C?f 0.7 V ? Co-N-Mn/NC ? Pt/C ???????????? Source Data ???",
+      "reading_note_zh": "???????????????????? Co-N-Mn/NC ? ORR ??????",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F007",
-      "page": 7,
-      "file": "assets/page-07.png",
-      "title": "Page 7 visual reference",
-      "caption": "Full-page visual reference for page 7, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 7 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 8,
+      "file": "assets/fig-07.png",
+      "title": "Fig. 7 | Zinc-air battery performance",
+      "caption": "Fig. 7 | Zinc air battery based on Co-N-Mn/NC catalyst. a An open-circuit voltage. Inset: schematic illustration of a ZAB. b Polarization curve and the recorded power density for the Co-N-Mn/NC or commercial Pt/C catalyst-based ZAB, respectively. c Rate performance of the ZABs with Co-N-Mn/NC or commercial Pt/C as air cathode at different current densities. d Galvanostatic discharge curves of Co-N-Mn/NC or commercial Pt/C-based ZAB at j = 10 mA cm?2. e Long-term discharge-charge curves at j = 5 mA cm?2 for ZABs with Co-N-Mn/NC + IrO2 and commercial Pt/C + IrO2. Inset: the corresponding voltage efficiency curves during the cycling test. Source data are provided as a Source Data file.",
+      "caption_zh": "? 7 | ?? Co-N-Mn/NC ??????????a ???????? ZAB ????b ?? Co-N-Mn/NC ??? Pt/C ???? ZAB ??????????c ? Co-N-Mn/NC ??? Pt/C ????????????????????d j = 10 mA cm?2 ??????????e j = 5 mA cm?2 ? Co-N-Mn/NC + IrO2 ??? Pt/C + IrO2 ?????????????????????????? Source Data ???",
+      "reading_note_zh": "?????????????????????????????????????",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F008",
-      "page": 8,
-      "file": "assets/page-08.png",
-      "title": "Page 8 visual reference",
-      "caption": "Full-page visual reference for page 8, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 8 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F009",
       "page": 9,
-      "file": "assets/page-09.png",
-      "title": "Page 9 visual reference",
-      "caption": "Full-page visual reference for page 9, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 9 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F010",
-      "page": 10,
-      "file": "assets/page-10.png",
-      "title": "Page 10 visual reference",
-      "caption": "Full-page visual reference for page 10, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 10 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F011",
-      "page": 11,
-      "file": "assets/page-11.png",
-      "title": "Page 11 visual reference",
-      "caption": "Full-page visual reference for page 11, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 11 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "file": "assets/fig-08.png",
+      "title": "Fig. 8 | Comparison with reported methods and catalysts",
+      "caption": "Fig. 8 | Comparison of design method and catalyst performance. a Comparison of theoretical overpotential values for Co-N-Mn/NC and catalysts in literature. b Comparison of the average computation costs for predicting the ORR catalytic activity of residual M1-N-M2/NC using pure DFT calculation and ML prediction. c Comparison of the Jk and E1/2 values between Co-N-Mn/NC and the catalysts reported recently. d Comparison of peak power density and specific capacity of Co-N-Mn/NC and recently reported highly active catalysts. The detailed data and references for comparison can be seen in the Supplementary Information tables. Source data are provided as a Source Data file.",
+      "caption_zh": "? 8 | ?????????????a Co-N-Mn/NC ??????????????b ??? DFT ? ML ???? M1-N-M2/NC ? ORR ??????????????c Co-N-Mn/NC ????????? Jk ? E1/2 ???d Co-N-Mn/NC ??????????????????????????????????????????? Source Data ???",
+      "reading_note_zh": "???????????????ML-DFT ???????? Co-N-Mn/NC ? ORR/ZAB ????????",
+      "extraction": "individual figure crop from source PDF"
     }
   ]
 }
