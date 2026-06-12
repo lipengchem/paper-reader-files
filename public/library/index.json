@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-06-11T11:33:18.722Z",
+  "generatedAt": "2026-06-12T07:31:03.891Z",
   "items": [
     {
       "slug": "20260611-band-matching-sulfur-electrocatalysts",
       "title": "A Band-Matching Descriptor Breaks Scaling Relations for Sulfur Electrocatalysts",
       "date": "2026-05-13",
       "taskDate": "2026-06-11",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Journal of the American Chemical Society",
       "zoteroKey": "EHSLLWP7",
       "collections": [
@@ -22,6 +23,7 @@
       "title": "A Machine Learning Perspective on the Brønsted–Evans–Polanyi Relation in Water‐Gas Shift Catalysis on MXenes",
       "date": "2026",
       "taskDate": "2026-06-11",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Advanced Intelligent Discovery",
       "zoteroKey": "XC3FBWIL",
       "collections": [
@@ -38,6 +40,7 @@
       "title": "The geometric-electronic coupled design of diatomic catalyst towards oxygen reduction reaction",
       "date": "2025-06-04",
       "taskDate": "2026-06-11",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Nature Communications",
       "zoteroKey": "26VVUJJU",
       "collections": [
@@ -55,6 +58,7 @@
       "title": "A generative model for inorganic materials design",
       "date": "2025-03",
       "taskDate": "2026-06-03",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Nature",
       "zoteroKey": "DBBM9ACZ",
       "collections": [
@@ -71,6 +75,7 @@
       "title": "Machine Learning Potentials for Heterogeneous Catalysis",
       "date": "2025-02-07",
       "taskDate": "2026-06-04",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "ACS Catalysis",
       "zoteroKey": "B597ITY7",
       "collections": [
@@ -87,6 +92,7 @@
       "title": "Nature of metal-support interaction for metal catalysts on oxide supports",
       "date": "2024-11-22",
       "taskDate": "2026-06-05",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Science",
       "zoteroKey": "FPFCDLGA",
       "collections": [
@@ -103,6 +109,7 @@
       "title": "Neural-network-based molecular dynamics simulations reveal that proton transport in water is doubly gated by sequential hydrogen-bond exchange",
       "date": "2024-11",
       "taskDate": "2026-06-09",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Nature Chemistry",
       "zoteroKey": "FTDJFF56",
       "collections": [
@@ -119,6 +126,7 @@
       "title": "Bubble-water/catalyst triphase interface microenvironment accelerates photocatalytic OER via optimizing semi-hydrophobic OH radical",
       "date": "2024-03-15",
       "taskDate": "2026-06-11",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
       "journal": "Nature Communications",
       "zoteroKey": "IS6WHUPC",
       "collections": [
