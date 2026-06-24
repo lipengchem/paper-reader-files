@@ -31,91 +31,6 @@
 | AIMD | 从头算分子动力学 | 用于描述水/TiO2 界面动态氢键网络和自由基环境。 |
 | BEP relationship | Brønsted-Evans-Polanyi 关系 | 用于估计空穴迁移能垒与反应能之间的关联。 |
 
-## Page Visual Guide / 页面图示对照
-
-<a id="F001"></a>
-### Page 1 visual reference
-
-![Page 1 visual reference](assets/page-01.png)
-
-**Original caption:** Full-page visual reference for page 1, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 1 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F002"></a>
-### Page 2 visual reference
-
-![Page 2 visual reference](assets/page-02.png)
-
-**Original caption:** Full-page visual reference for page 2, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 2 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F003"></a>
-### Page 3 visual reference
-
-![Page 3 visual reference](assets/page-03.png)
-
-**Original caption:** Full-page visual reference for page 3, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 3 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F004"></a>
-### Page 4 visual reference
-
-![Page 4 visual reference](assets/page-04.png)
-
-**Original caption:** Full-page visual reference for page 4, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 4 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F005"></a>
-### Page 5 visual reference
-
-![Page 5 visual reference](assets/page-05.png)
-
-**Original caption:** Full-page visual reference for page 5, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 5 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F006"></a>
-### Page 6 visual reference
-
-![Page 6 visual reference](assets/page-06.png)
-
-**Original caption:** Full-page visual reference for page 6, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 6 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F007"></a>
-### Page 7 visual reference
-
-![Page 7 visual reference](assets/page-07.png)
-
-**Original caption:** Full-page visual reference for page 7, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 7 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F008"></a>
-### Page 8 visual reference
-
-![Page 8 visual reference](assets/page-08.png)
-
-**Original caption:** Full-page visual reference for page 8, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 8 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-<a id="F009"></a>
-### Page 9 visual reference
-
-![Page 9 visual reference](assets/page-09.png)
-
-**Original caption:** Full-page visual reference for page 9, retained so figures, schemes, and tables can be inspected next to the bilingual text.
-
-**中文图注:** 第 9 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。
-
-## Bilingual Reader / 逐段中英对照
-
 <a id="S001"></a>
 **Source:** p.1 S001
 
@@ -165,6 +80,21 @@
 
 **中文:** Ea 本质上是一个常数。然而，实际上，可以看出 OER 活性的温度依赖性存在有趣的线性偏差，如图 1h 中红色曲线的向上弯曲所示。这些结果表明，由于界面环境的影响，活化能随着温度的升高而改变。值得注意的是，当液态水部分汽化并形成汽液共存状态（称为500 K（共存）条件）时，OER活性显着提高并达到38.36 site−1·s−1。该值比相同温度下没有界面变化时观察到的值（2.32 site−1·s−1）高约 16.5 倍。值得注意的是，我们还研究了浓度表面到达孔对 OER 速率的影响，覆盖范围从 10−10 到 1 ML（补充图 4）。值得注意的是，该系统在 500 K（共存）条件下始终表现出优异的 OER 活性，这与图 1h 中描述的活性趋势一致。这些发现强调了除了温度之外界面微环境在影响反应速率方面的重要性。
 
+
+<a id="F001"></a>
+### Fig. 1 | Interface environments and OER performances at different temperatures
+
+**Placed near:** p.3 S007
+
+**Source:** p.3 F001
+
+![Fig. 1 | Interface environments and OER performances at different temperatures](assets/fig-01-interface-oer.png)
+
+**Original caption:** Interface environments and OER performances at different temperatures. Panels a-f show structures of interface environments and water density distribution along TiO2(110) under different temperature and density conditions. Panel g compares water density profiles in the first two layers. Panel h shows calculated OER rates at different water/TiO2(110) interfaces as a function of temperature, separating interface phase-change effects from normal temperature effects.
+
+**中文图注:** 不同温度下的界面环境和OER性能。图 a-f 显示了不同温度和密度条件下沿 TiO2(110) 的界面环境结构和水密度分布。 g 面板比较了前两层的水密度分布。图 h 显示了计算出的不同水/TiO2(110) 界面的 OER 速率与温度的函数关系，将界面相变效应与常温效应分开。
+
+**Reading note / 阅读提示:** 该图建立了中心观察结果：液汽共存界面改变了水密度和氢键，OER速率在500 K共存条件下急剧上升。
 <a id="S008"></a>
 **Source:** p.3 S008
 
@@ -200,6 +130,21 @@
 
 **中文:** 来自/到附近的水分子。相比之下，•OHt自由基只能作为受体形成长氢键（1.80 Å），同时与附近的水分子保持作为供体的短氢键（1.49 Å）。这一观察结果表明，OHt - 优先充当氢键受体，并且非常亲水，而表面·OHt 主要充当氢键供体，并且变得相对疏水30。其次，使用径向分布函数（RDF，g（r）；图2f）定量比较298 K（l）时OHt - 和•OHt 的界面环境。结果表明，•OHt 在约 2.56 Å 处的第一个峰值低于 OHt - 的峰值，表明•OHt 与 OHt - 相比表现出相对疏水的特性。这种差异表明，在 OHt - 处空穴捕获形成•OHt 自由基的过程中，•OHt 中间体会将水分子推开，导致•OHt 周围的水密度相对于 OHt - 更低。这种现象可归因于·OHt自由基中中心O原子的总电荷显着减少（补充表3）。
 
+
+<a id="F002"></a>
+### Fig. 2 | Key characteristics of *OHt at different interfaces
+
+**Placed near:** p.5 S017
+
+**Source:** p.4 F002
+
+![Fig. 2 | Key characteristics of *OHt at different interfaces](assets/fig-02-oh-radical-interfaces.png)
+
+**Original caption:** Key characteristics of the surface *OHt radical at different interfaces. Panels a-e compare spin-density isosurfaces for hydroxide and *OHt under different interface conditions. Panel f compares radial distribution functions. Panels h and i connect the OOH-water distance and hole trapping capacity with solvation energy.
+
+**中文图注:** 不同界面处表面 *OHt 自由基的关键特征。图 a-e 比较了不同界面条件下氢氧化物和 *OHt 的自旋密度等值面。图 f 比较了径向分布函数。 h 和 i 面板将 OOH-水距离和空穴捕获能力与溶剂化能联系起来。
+
+**Reading note / 阅读提示:** 该图解释了为什么界面在机械上很重要：随着局部水环境的松弛，*OHt 自由基变得更加疏水，从而提高了空穴捕获能力。
 <a id="S013"></a>
 **Source:** p.5 S013
 
@@ -221,6 +166,21 @@
 
 **中文:** 与界面附近的水结合（补充图6）。重要的是，我们发现 H2Oad 的去质子化势垒与 H2Oad 的溶剂化能线性相关（补充图 7）。因此，一旦水的密度低于一定值，H2Oad 的质子就很难接触周围的水，导致去质子化势垒增加。这一观察结果有助于解释为什么在气相条件下，即使温度升高，水的解离也可以忽略不计21。另一方面，当水的覆盖范围和压力增加时，水的离解增强21,22。因此，足够密度的界面环境是保证反应成功的前提。 500 K（共存）界面微环境不仅表现出足够高的HTC，而且还提供适当的水密度，从而导致优异的OER活性。
 
+
+<a id="F003"></a>
+### Fig. 3 | Proton transfer in H2O dissociation at different interfaces
+
+**Placed near:** p.5 S015
+
+**Source:** p.5 F003
+
+![Fig. 3 | Proton transfer in H2O dissociation at different interfaces](assets/fig-03-proton-transfer.png)
+
+**Original caption:** Proton transfer in water dissociation at different interfaces. Panel a compares solvation energies of adsorbed water and corresponding deprotonation barriers. Panels b and c show transition-state structures for proton transfer at 298 K liquid and 500 K coexistence interfaces.
+
+**中文图注:** 水解离中不同界面的质子转移。图 a 比较了吸附水的溶剂化能和相应的去质子化势垒。图 b 和 c 显示了 298 K 液体和 500 K 共存界面处质子转移的过渡态结构。
+
+**Reading note / 阅读提示:** 该图是对简单除水的警告：如果界面变得太稀疏，水的解离会变得更困难，因此仍然需要足够的界面水密度。
 <a id="S016"></a>
 **Source:** p.5 S016
 
@@ -249,6 +209,21 @@
 
 **中文:** 31. 它表明，随着溶剂化能的降低，HTC 变得更强。这是液汽共存条件下OER率提高更为显着的主要原因。值得注意的是，由于环境条件下空穴浓度较低，•OHt自由基的形成通常是一个缓慢的步骤，从而阻碍了整个OER的进展26。此外，TiO2 光催化剂在标准条件下光照下具有亲水性32,33。因此，提高HTC的绝对值对于提升整体OER活跃度是有效的。这一结果可以为 Chen 等人的令人着迷的实验结果提供额外的合理性。谁发现黑色氢化二氧化钛具有卓越的光催化活性34：黑色氢化二氧化钛
 
+
+<a id="F004"></a>
+### Fig. 4 | Hydrophobic-interface strategy for improving OER activity
+
+**Placed near:** p.6 S019
+
+**Source:** p.6 F004
+
+![Fig. 4 | Hydrophobic-interface strategy for improving OER activity](assets/fig-04-hydrophobic-interface.png)
+
+**Original caption:** Strategy to improve OER activity by constructing a hydrophobic interface. Panels a and b compare common and hydrophobic water/catalyst interfaces. Panel c tracks the OOH-water distance during AIMD in the hydrophobic interface. Panel d compares photocatalytic OER activity in common and hydrophobic interfaces.
+
+**中文图注:** 通过构建疏水界面提高 OER 活性的策略。图 a 和 b 比较了常见的和疏水的水/催化剂界面。图 c 跟踪 AIMD 期间疏水界面中的 OOH-水距离。图 d 比较了常见界面和疏水界面中的光催化 OER 活性。
+
+**Reading note / 阅读提示:** 该图将该机理转化为一种设计方案：在催化剂表面附近添加部分疏水成分，以稳定有利的半疏水*OH自由基环境，而无需仅依赖加热。
 <a id="S020"></a>
 **Source:** p.6 S020
 

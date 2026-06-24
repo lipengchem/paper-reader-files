@@ -276,5 +276,68 @@
       "placed_near": "p.8-9 S017",
       "confidence": "high"
     }
-  ]
+  ],
+  "figures": [
+    {
+      "id": "F001",
+      "page": 2,
+      "file": "assets/fig1_scaling_descriptor.png",
+      "title": "Fig. 1. Orbital-coupling scaling and descriptor landscape",
+      "caption": "Figure 1 introduces the conceptual problem. Panel (a) illustrates how orbital-coupling-derived linear correlations among LiPS adsorption energies impose an activity upper bound. Panel (b) summarizes Pearson correlations between sulfur-redox activity and multiple electronic descriptors.",
+      "caption_zh": "图 1 用来搭建全文概念框架。图 (a) 说明由轨道耦合导致的 LiPS 吸附能线性相关会把催化活性压在一个理论上限内；图 (b) 则汇总了硫氧化还原活性与多种电子结构描述符之间的 Pearson 相关性。",
+      "placed_near": "p.2 S004",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F002",
+      "page": 3,
+      "file": "assets/fig2_tms_screening_scaling.png",
+      "title": "Fig. 2. Screening TMSs and identifying adsorption scaling",
+      "caption": "Figure 2 combines catalyst screening, conductivity and Li-ion transport checks, adsorption strengths, and the actual scaling plots among sulfur species.",
+      "caption_zh": "图 2 把候选催化剂筛选、电导与锂离子传输、吸附强度以及多硫物种之间的标度关系画在了一起。",
+      "placed_near": "p.3 S006",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F003",
+      "page": 4,
+      "file": "assets/fig3_pathway_descriptor.png",
+      "title": "Fig. 3. Pathway-dependent free-energy descriptor",
+      "caption": "Figure 3 links sulfur-redox overpotentials to Gibbs free-energy differences for the Li2S4/Li2S2 bottleneck pair, showing how pathway regulation breaks away from single-adsorbate descriptors.",
+      "caption_zh": "图 3 把硫氧化还原过电位与 Li2S4/Li2S2 这一对关键瓶颈步骤的 Gibbs 自由能差联系起来，说明路径调控如何跳出单一吸附物描述符。",
+      "placed_near": "p.4 S008",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F004",
+      "page": 5,
+      "file": "assets/fig4_charge_transfer_icohp.png",
+      "title": "Fig. 4. Charge transfer and orbital-competition origin",
+      "caption": "Figure 4 visualizes differential charge density, charge transfer, M-S bond strength, Li-S bond strength, and the competition between d-p and s-p orbital coupling.",
+      "caption_zh": "图 4 可视化了差分电荷密度、电荷转移、M-S 键强、Li-S 键强以及 d-p / s-p 轨道耦合之间的竞争关系。",
+      "placed_near": "p.5 S010",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F005",
+      "page": 6,
+      "file": "assets/fig5_band_matching_model.png",
+      "title": "Fig. 5. Building the d/p band-matching descriptor",
+      "caption": "Figure 5 moves from qualitative orbital arguments to a statistical descriptor, relating electronegativity difference, d-p band-center alignment, and the resulting band-matching percentage to theoretical bifunctional overpotential.",
+      "caption_zh": "图 5 把前面的定性轨道图景推进到定量描述符层面，展示了电负性差、d-p 带心匹配和最终能带匹配百分比如何共同决定理论双功能过电位。",
+      "placed_near": "p.6-7 S012",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F006",
+      "page": 8,
+      "file": "assets/fig6_kinetics_battery_validation.png",
+      "title": "Fig. 6. Kinetics and battery-performance validation",
+      "caption": "Figure 6 gathers UV-vis adsorption, Li-ion diffusion, CV, Tafel analysis, activation energies, galvanostatic profiles, QL/QH ratios, and high-loading cycling stability to validate the descriptor experimentally.",
+      "caption_zh": "图 6 把 UV-vis 吸附、Li+ 扩散、CV、Tafel 分析、活化能、恒流充放电曲线、QL/QH 比值以及高负载循环稳定性集中展示出来，用实验把描述符闭环验证。",
+      "placed_near": "p.8-9 S017",
+      "extraction": "individual figure crop from source PDF"
+    }
+  ],
+  "figure_count": 6
 }

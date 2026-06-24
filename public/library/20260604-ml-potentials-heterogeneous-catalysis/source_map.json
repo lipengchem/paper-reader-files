@@ -302,5 +302,28 @@
       "placed_near": "p.6 S015",
       "confidence": "high"
     }
-  ]
+  ],
+  "figures": [
+    {
+      "id": "F001",
+      "page": 2,
+      "file": "assets/fig1_lmno_water_interface.png",
+      "title": "Fig. 1. LiMn2O4-water training and production setup",
+      "caption": "Schematic representation of the LiMn2O4 {100}Li-water interface. On the left is the full simulation box for the final MD simulation. On the right are the smaller reference systems, namely bulk LiMn2O4, bulk water, and the LiMn2O4 {100}Li-water interface, used for training the MLP model. Manganese atoms are violet, lithium green, oxygen red, hydrogen white, and liquid-phase oxygen blue.",
+      "caption_zh": "LiMn2O4 {100}Li-水界面的示意图。左侧是最终分子动力学生产模拟使用的完整模拟盒，右侧是训练 MLP 时用到的更小参考体系，包括体相 LiMn2O4、体相水以及 LiMn2O4 {100}Li-水界面。图中锰原子为紫色、锂原子为绿色、氧原子为红色、氢原子为白色，液相中的氧原子用蓝色表示。",
+      "placed_near": "p.2 S006 **Source:** p.2 F001 ![F001](assets/fig1_lmno_water_interface.png)",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F002",
+      "page": 6,
+      "file": "assets/fig2_zno_water_interface.png",
+      "title": "Fig. 2. Dissociated water at the ZnO-water interface",
+      "caption": "Snapshots of the ZnO(10-10)-water interface, illustrating the presence of dissociated water at the surface. Panel (a) shows a side view of the interface model. Panel (b) shows a top view including only the first layer of adsorbed and dissociated water. Adsorbed water, adsorbed hydroxide, and surface hydroxyl groups are highlighted with different colors, and adsorbed species are defined by oxygen atoms within 2.5 Å of a surface zinc atom.",
+      "caption_zh": "ZnO(10-10)-水界面的快照，展示了表面存在解离水。图 (a) 是界面模型的侧视图，图 (b) 是只保留第一层吸附与解离水分子的俯视图。吸附水、吸附羟基和表面羟基分别用不同颜色区分；文中把氧原子距离表面 Zn 原子 2.5 Å 以内的物种定义为吸附态。",
+      "placed_near": "p.6 S015 **Source:** p.6 F002 ![F002](assets/fig2_zno_water_interface.png)",
+      "extraction": "individual figure crop from source PDF"
+    }
+  ],
+  "figure_count": 2
 }

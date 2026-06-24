@@ -554,9 +554,10 @@
       "file": "assets/fig-01.png",
       "title": "Fig. 1 | DFT-ML-experiment workflow",
       "caption": "Fig. 1 | Schematic of the workflow based on the DFT-ML-experiment method to achieve a principle coupling of geometric and electronic parameters for the design of M1-N-M2/NCs. Some elements in this scheme were created using BioGDP.com (https://BioGDP.com).",
-      "caption_zh": "? 1 | ?? DFT-ML-????????????????? M1-N-M2/NC ???????????????????????????? BioGDP.com ???",
-      "reading_note_zh": "???????????? ML ???????????DFT??????????????????",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图1|基于 DFT-ML 实验方法的工作流程示意图，用于实现 M1-N-M2/NC 设计的几何参数和电子参数的原理耦合。该方案中的一些元素是使用 BioGDP.com (https://BioGDP.com) 创建的。",
+      "reading_note_zh": "该图给出了论文的方法级逻辑：特征工程、DFT数据生成、机器学习筛选和实验验证。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.2 S008"
     },
     {
       "id": "F002",
@@ -564,9 +565,10 @@
       "file": "assets/fig-02.png",
       "title": "Fig. 2 | Data generation and pretreatment",
       "caption": "Fig. 2 | The generation and pretreatment of the data. a Schematic structure of M1-N-M2/NCs and element type of metal atom. b Binding energies and formation energies of MNC and part of the randomly combined M1-N-M2/NCs. c The overpotentials of part of the randomly combined M1-N-M2/NCs. d Pearson correlation map between each of the 16 features. Source data are provided as a Source Data file.",
-      "caption_zh": "? 2 | ?????????a M1-N-M2/NCs ??????????????b MNC ??????? M1-N-M2/NCs ?????????c ?????? M1-N-M2/NCs ?????d 16 ?????? Pearson ???????? Source Data ???",
-      "reading_note_zh": "?????????????????????????????? 16 ???????",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图2|数据的生成和预处理。 a M1-N-M2/NCs的结构示意图和金属原子的元素类型。 b MNC 和部分随机组合的 M1-N-M2/NC 的结合能和形成能。 c 部分随机组合的M1-N-M2/NC的超电势。 d 16 个特征之间的皮尔逊相关图。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图解释了在机器学习之前如何准备数据集和特征，包括稳定性、超电势和特征相关性检查。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.3 S011"
     },
     {
       "id": "F003",
@@ -574,9 +576,10 @@
       "file": "assets/fig-03.png",
       "title": "Fig. 3 | Machine-learning training and prediction",
       "caption": "Fig. 3 | Machine learning training and prediction. a Comparison of the RMSE and the R2 score for each model on the train set and the test set. b Comparison of DFT calculated overpotential values with those predicted by the best-performing GBR model. c ML predicted overpotential heatmap of all M1-N-M2/NCs in this system. d DFT calculations verified that ML predicted the best performing 10 M1-N-M2/NCs with overpotentials. Source data are provided as a Source Data file.",
-      "caption_zh": "? 3 | ??????????a ????????????? RMSE ? R2?b DFT ???????? GBR ?????????c ML ?????? M1-N-M2/NCs ?????????d DFT ?? ML ??? 10 ???? M1-N-M2/NCs ?????????? Source Data ???",
-      "reading_note_zh": "?????????????????????????????? DFT ???",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图3|机器学习训练和预测。 a 训练集和测试集上每个模型的 RMSE 和 R2 分数的比较。 b DFT 计算的超电势值与性能最佳的 GBR 模型预测的超电势值的比较。 c ML 预测该系统中所有 M1-N-M2/NC 的过电势热图。 d DFT 计算验证了 ML 预测了性能最佳的 10 个具有超电势的 M1-N-M2/NC。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图是机器学习模型的核心验证：首先检查预测准确性，然后通过 DFT 重新检查最佳候选者。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.3 S012"
     },
     {
       "id": "F004",
@@ -584,9 +587,10 @@
       "file": "assets/fig-04.png",
       "title": "Fig. 4 | Key factors and hot-spot map",
       "caption": "Fig. 4 | Analysis of key factors affecting catalytic performance. a SHAP summary plot of the GBR model for ORR overpotentials. b Hot spot plot of ML predicted overpotential as a function of dM1-M2 and MagM1 features by M1-N-M2/NCs (M1 = Co, Rh, Ir). Source data are provided as a Source Data file.",
-      "caption_zh": "? 4 | ??????????????a ORR ??? GBR ??? SHAP ????b ? M1-N-M2/NCs?M1 = Co?Rh?Ir??? dM1-M2 ? MagM1 ?????? ML ????????????? Source Data ???",
-      "reading_note_zh": "??????????????????????????? dM1-M2 ????? MagM1 ??????",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图4|影响催化性能的关键因素分析。 ORR 过电势的 GBR 模型的 SHAP 汇总图。 b ML 预测过电势的热点图，作为 M1-N-M2/NC 的 dM1-M2 和 MagM1 特征的函数（M1 = Co、Rh、Ir）。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图将机器学习结果转换为可解释的设计规则：几何距离和磁矩必须一起调整。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.4 S015"
     },
     {
       "id": "F005",
@@ -594,29 +598,32 @@
       "file": "assets/fig-05.png",
       "title": "Fig. 5 | Characterization of Co-N-Mn/NC",
       "caption": "Fig. 5 | Characterization of Co-N-Mn/NC catalyst. a TEM and b AC HAADF-STEM images of Co-N-Mn/NC catalyst. c The intensity profiles obtained on site A and site B. d Corresponding EDS mapping images of Co-N-Mn/NC catalyst. e The EXAFS spectra of Co K-edge in R space. f The EXAFS spectra of Mn K-edge in R space. g The R-space EXAFS fitting curves of the Co-N-Mn/NC at Co K-edge. Inset: Schematic diagram of the Co-N-Mn/NC structure. h The R-space EXAFS fitting curves of the Co-N-Mn/NC at Mn K-edge. Source data are provided as a Source Data file.",
-      "caption_zh": "? 5 | Co-N-Mn/NC ?????????a TEM ? b AC HAADF-STEM ???c ?? A ? B ??????d ?? EDS ?????e Co K-edge ? R ??? EXAFS ??f Mn K-edge ? R ??? EXAFS ??g Co-N-Mn/NC ? Co K-edge ? R ?? EXAFS ????????????h Mn K-edge ? R ?? EXAFS ??????? Source Data ???",
-      "reading_note_zh": "????????????????????????????????????? EXAFS ???",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图5 | Co-N-Mn/NC 催化剂的表征。 a TEM 和 b AC HAADF-STEM 图像 Co-N-Mn/NC 催化剂。 c 在位点 A 和位点 B 上获得的强度分布。 d Co-N-Mn/NC 催化剂的相应 EDS 映射图像。 e R空间中Co K边的EXAFS谱。 f R 空间中 Mn K 边的 EXAFS 谱。 g Co-N-Mn/NC在Co K边缘处的R空间EXAFS拟合曲线。插图：Co-N-Mn/NC 结构示意图。 h Co-N-Mn/NC 在 Mn K 边缘处的 R 空间 EXAFS 拟合曲线。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图验证了预测的 Co-N-Mn/NC 结构实际上是合成的，并且 Co 和 Mn 配位环境与模型相匹配。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.5 S020"
     },
     {
       "id": "F006",
       "page": 7,
       "file": "assets/fig-06.png",
       "title": "Fig. 6 | ORR electrochemical activity",
-      "caption": "Fig. 6 | Electrochemical activity of Co-N-Mn/NC catalyst. a iR-corrected RDE polarization curves of Co-N-Mn/NC, CoNC, MnNC, NC, and Pt/C catalysts (scan rate: 5 mV s?1, rotation rate: 1600 rpm). b Comparison of E1/2 and Jk at 0.85 V for the different catalysts. c Corresponding Tafel plots derived from the RDE polarization curves for the different catalysts. The error bars are the standard deviations of three individual calculations. d Electron transfer number (n) and H2O2 yield of Co-N-Mn/NC and the reference catalysts. e Accelerated durability test of Co-N-Mn/NC catalyst before and after 10,000 continuous CV cycles ranging from 0.7 to 1.0 V (vs. RHE). Inset: accelerated durability test of Pt/C catalyst. f Chronoamperometric test of Co-N-Mn/NC and Pt/C catalysts at 0.7 V. Source data are provided as a Source Data file.",
-      "caption_zh": "? 6 | Co-N-Mn/NC ???? ORR ??????a Co-N-Mn/NC?CoNC?MnNC?NC ? Pt/C ? iR ?? RDE ?????b ????? E1/2 ? 0.85 V ? Jk ????c ? RDE ??????? Tafel ?????????????????d Co-N-Mn/NC ???????????? n ? H2O2 ???e 0.7?1.0 V?vs. RHE??? 10000 ? CV ?????????????? Pt/C?f 0.7 V ? Co-N-Mn/NC ? Pt/C ???????????? Source Data ???",
-      "reading_note_zh": "???????????????????? Co-N-Mn/NC ? ORR ??????",
-      "extraction": "individual figure crop from source PDF"
+      "caption": "Fig. 6 | Electrochemical activity of Co-N-Mn/NC catalyst. a iR-corrected RDE polarization curves of Co-N-Mn/NC, CoNC, MnNC, NC, and Pt/C catalysts (scan rate: 5 mV s−1, rotation rate: 1600 rpm). b Comparison of E1/2 and Jk at 0.85 V for the different catalysts. c Corresponding Tafel plots derived from the RDE polarization curves for the different catalysts. The error bars are the standard deviations of three individual calculations. d Electron transfer number (n) and H2O2 yield of Co-N-Mn/NC and the reference catalysts. e Accelerated durability test of Co-N-Mn/NC catalyst before and after 10,000 continuous CV cycles ranging from 0.7 to 1.0 V (vs. RHE). Inset: accelerated durability test of Pt/C catalyst. f Chronoamperometric test of Co-N-Mn/NC and Pt/C catalysts at 0.7 V. Source data are provided as a Source Data file.",
+      "caption_zh": "图 6 | Co-N-Mn/NC催化剂的电化学活性。 a Co-N-Mn/NC、CoNC、MnNC、NC 和 Pt/C 催化剂的 iR 校正 RDE 极化曲线（扫描速率：5 mV s−1，旋转速率：1600 rpm）。 b 不同催化剂在 0.85 V 下 E1/2 和 Jk 的比较。 c 根据不同催化剂的 RDE 极化曲线得出相应的塔菲尔图。误差线是三个单独计算的标准偏差。 d Co-N-Mn/NC 和参考催化剂的电子转移数 (n) 和 H2O2 产率。 e Co-N-Mn/NC 催化剂在 0.7 至 1.0 V（相对于 RHE）的 10,000 次连续 CV 循环之前和之后的加速耐久性测试。插图：Pt/C 催化剂的加速耐久性测试。 f 在 0.7 V 下对 Co-N-Mn/NC 和 Pt/C 催化剂进行计时电流测试。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图结合了活性、选择性和耐久性证据，测试了预测的催化剂在 ORR 方面是否确实表现良好。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.6 S023"
     },
     {
       "id": "F007",
       "page": 8,
       "file": "assets/fig-07.png",
       "title": "Fig. 7 | Zinc-air battery performance",
-      "caption": "Fig. 7 | Zinc air battery based on Co-N-Mn/NC catalyst. a An open-circuit voltage. Inset: schematic illustration of a ZAB. b Polarization curve and the recorded power density for the Co-N-Mn/NC or commercial Pt/C catalyst-based ZAB, respectively. c Rate performance of the ZABs with Co-N-Mn/NC or commercial Pt/C as air cathode at different current densities. d Galvanostatic discharge curves of Co-N-Mn/NC or commercial Pt/C-based ZAB at j = 10 mA cm?2. e Long-term discharge-charge curves at j = 5 mA cm?2 for ZABs with Co-N-Mn/NC + IrO2 and commercial Pt/C + IrO2. Inset: the corresponding voltage efficiency curves during the cycling test. Source data are provided as a Source Data file.",
-      "caption_zh": "? 7 | ?? Co-N-Mn/NC ??????????a ???????? ZAB ????b ?? Co-N-Mn/NC ??? Pt/C ???? ZAB ??????????c ? Co-N-Mn/NC ??? Pt/C ????????????????????d j = 10 mA cm?2 ??????????e j = 5 mA cm?2 ? Co-N-Mn/NC + IrO2 ??? Pt/C + IrO2 ?????????????????????????? Source Data ???",
-      "reading_note_zh": "?????????????????????????????????????",
-      "extraction": "individual figure crop from source PDF"
+      "caption": "Fig. 7 | Zinc air battery based on Co-N-Mn/NC catalyst. a An open-circuit voltage. Inset: schematic illustration of a ZAB. b Polarization curve and the recorded power density for the Co-N-Mn/NC or commercial Pt/C catalyst-based ZAB, respectively. c Rate performance of the ZABs with Co-N-Mn/NC or commercial Pt/C as air cathode at different current densities. d Galvanostatic discharge curves of Co-N-Mn/NC or commercial Pt/C-based ZAB at j = 10 mA cm−2. e Long-term discharge-charge curves at j = 5 mA cm−2 for ZABs with Co-N-Mn/NC + IrO2 and commercial Pt/C + IrO2. Inset: the corresponding voltage efficiency curves during the cycling test. Source data are provided as a Source Data file.",
+      "caption_zh": "图 7 |基于Co-N-Mn/NC催化剂的锌空气电池。 a 开路电压。插图：ZAB 的示意图。 b 分别基于 Co-N-Mn/NC 或商用 Pt/C 催化剂的 ZAB 的极化曲线和记录的功率密度。 c 以Co-N-Mn/NC或商用Pt/C作为空气阴极的ZAB在不同电流密度下的倍率性能。 d Co-N-Mn/NC 或商用 Pt/C 基 ZAB 在 j = 10 mA cm−2 时的恒电流放电曲线。 e 采用 Co-N-Mn/NC + IrO2 和商用 Pt/C + IrO2 的 ZAB 在 j = 5 mA cm−2 时的长期放电-充电曲线。插图：循环测试时对应的电压效率曲线。源数据作为源数据文件提供。",
+      "reading_note_zh": "该数字从三电极催化转移到设备级锌空气电池性能。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.7 S025"
     },
     {
       "id": "F008",
@@ -624,9 +631,10 @@
       "file": "assets/fig-08.png",
       "title": "Fig. 8 | Comparison with reported methods and catalysts",
       "caption": "Fig. 8 | Comparison of design method and catalyst performance. a Comparison of theoretical overpotential values for Co-N-Mn/NC and catalysts in literature. b Comparison of the average computation costs for predicting the ORR catalytic activity of residual M1-N-M2/NC using pure DFT calculation and ML prediction. c Comparison of the Jk and E1/2 values between Co-N-Mn/NC and the catalysts reported recently. d Comparison of peak power density and specific capacity of Co-N-Mn/NC and recently reported highly active catalysts. The detailed data and references for comparison can be seen in the Supplementary Information tables. Source data are provided as a Source Data file.",
-      "caption_zh": "? 8 | ?????????????a Co-N-Mn/NC ??????????????b ??? DFT ? ML ???? M1-N-M2/NC ? ORR ??????????????c Co-N-Mn/NC ????????? Jk ? E1/2 ???d Co-N-Mn/NC ??????????????????????????????????????????? Source Data ???",
-      "reading_note_zh": "???????????????ML-DFT ???????? Co-N-Mn/NC ? ORR/ZAB ????????",
-      "extraction": "individual figure crop from source PDF"
+      "caption_zh": "图 8 |设计方法和催化剂性能比较。 a Co-N-Mn/NC 和文献中催化剂的理论过电势值比较。 b 使用纯DFT计算和ML预测预测残留M1-N-M2/NC的ORR催化活性的平均计算成本的比较。 c Co-N-Mn/NC与最近报道的催化剂的Jk和E1/2值比较。 d Co-N-Mn/NC 与最近报道的高活性催化剂的峰值功率密度和比容量的比较。详细数据和比较参考可以在补充信息表中看到。源数据作为源数据文件提供。",
+      "reading_note_zh": "该图通过将计算成本和催化剂性能与报告的方法和催化剂进行比较来结束本文。",
+      "extraction": "individual figure crop from source PDF",
+      "placed_near": "p.7 S027"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "date": "2024-03-15",
   "doi": "10.1038/s41467-024-46749-z",
   "paragraph_count": 45,
-  "figure_count": 9,
+  "figure_count": 4,
   "body_pairs": [
     {
       "id": "S001",
@@ -460,75 +460,47 @@
   "figures": [
     {
       "id": "F001",
-      "page": 1,
-      "file": "assets/page-01.png",
-      "title": "Page 1 visual reference",
-      "caption": "Full-page visual reference for page 1, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 1 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 3,
+      "file": "assets/fig-01-interface-oer.png",
+      "title": "Fig. 1 | Interface environments and OER performances at different temperatures",
+      "caption": "Interface environments and OER performances at different temperatures. Panels a-f show structures of interface environments and water density distribution along TiO2(110) under different temperature and density conditions. Panel g compares water density profiles in the first two layers. Panel h shows calculated OER rates at different water/TiO2(110) interfaces as a function of temperature, separating interface phase-change effects from normal temperature effects.",
+      "caption_zh": "不同温度下的界面环境和OER性能。图 a-f 显示了不同温度和密度条件下沿 TiO2(110) 的界面环境结构和水密度分布。 g 面板比较了前两层的水密度分布。图 h 显示了计算出的不同水/TiO2(110) 界面的 OER 速率与温度的函数关系，将界面相变效应与常温效应分开。",
+      "reading_note_zh": "该图建立了中心观察结果：液汽共存界面改变了水密度和氢键，OER速率在500 K共存条件下急剧上升。",
+      "placed_near": "p.3 S007",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F002",
-      "page": 2,
-      "file": "assets/page-02.png",
-      "title": "Page 2 visual reference",
-      "caption": "Full-page visual reference for page 2, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 2 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 4,
+      "file": "assets/fig-02-oh-radical-interfaces.png",
+      "title": "Fig. 2 | Key characteristics of *OHt at different interfaces",
+      "caption": "Key characteristics of the surface *OHt radical at different interfaces. Panels a-e compare spin-density isosurfaces for hydroxide and *OHt under different interface conditions. Panel f compares radial distribution functions. Panels h and i connect the OOH-water distance and hole trapping capacity with solvation energy.",
+      "caption_zh": "不同界面处表面 *OHt 自由基的关键特征。图 a-e 比较了不同界面条件下氢氧化物和 *OHt 的自旋密度等值面。图 f 比较了径向分布函数。 h 和 i 面板将 OOH-水距离和空穴捕获能力与溶剂化能联系起来。",
+      "reading_note_zh": "该图解释了为什么界面在机械上很重要：随着局部水环境的松弛，*OHt 自由基变得更加疏水，从而提高了空穴捕获能力。",
+      "placed_near": "p.4 S012",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F003",
-      "page": 3,
-      "file": "assets/page-03.png",
-      "title": "Page 3 visual reference",
-      "caption": "Full-page visual reference for page 3, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 3 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "page": 5,
+      "file": "assets/fig-03-proton-transfer.png",
+      "title": "Fig. 3 | Proton transfer in H2O dissociation at different interfaces",
+      "caption": "Proton transfer in water dissociation at different interfaces. Panel a compares solvation energies of adsorbed water and corresponding deprotonation barriers. Panels b and c show transition-state structures for proton transfer at 298 K liquid and 500 K coexistence interfaces.",
+      "caption_zh": "水解离中不同界面的质子转移。图 a 比较了吸附水的溶剂化能和相应的去质子化势垒。图 b 和 c 显示了 298 K 液体和 500 K 共存界面处质子转移的过渡态结构。",
+      "reading_note_zh": "该图是对简单除水的警告：如果界面变得太稀疏，水的解离会变得更困难，因此仍然需要足够的界面水密度。",
+      "placed_near": "p.5 S015",
+      "extraction": "individual figure crop from source PDF"
     },
     {
       "id": "F004",
-      "page": 4,
-      "file": "assets/page-04.png",
-      "title": "Page 4 visual reference",
-      "caption": "Full-page visual reference for page 4, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 4 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F005",
-      "page": 5,
-      "file": "assets/page-05.png",
-      "title": "Page 5 visual reference",
-      "caption": "Full-page visual reference for page 5, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 5 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F006",
       "page": 6,
-      "file": "assets/page-06.png",
-      "title": "Page 6 visual reference",
-      "caption": "Full-page visual reference for page 6, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 6 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F007",
-      "page": 7,
-      "file": "assets/page-07.png",
-      "title": "Page 7 visual reference",
-      "caption": "Full-page visual reference for page 7, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 7 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F008",
-      "page": 8,
-      "file": "assets/page-08.png",
-      "title": "Page 8 visual reference",
-      "caption": "Full-page visual reference for page 8, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 8 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
-    },
-    {
-      "id": "F009",
-      "page": 9,
-      "file": "assets/page-09.png",
-      "title": "Page 9 visual reference",
-      "caption": "Full-page visual reference for page 9, retained so figures, schemes, and tables can be inspected next to the bilingual text.",
-      "caption_zh": "第 9 页整页视觉参考图，用于在阅读逐段译文时对照原文中的图、方案和表格。"
+      "file": "assets/fig-04-hydrophobic-interface.png",
+      "title": "Fig. 4 | Hydrophobic-interface strategy for improving OER activity",
+      "caption": "Strategy to improve OER activity by constructing a hydrophobic interface. Panels a and b compare common and hydrophobic water/catalyst interfaces. Panel c tracks the OOH-water distance during AIMD in the hydrophobic interface. Panel d compares photocatalytic OER activity in common and hydrophobic interfaces.",
+      "caption_zh": "通过构建疏水界面提高 OER 活性的策略。图 a 和 b 比较了常见的和疏水的水/催化剂界面。图 c 跟踪 AIMD 期间疏水界面中的 OOH-水距离。图 d 比较了常见界面和疏水界面中的光催化 OER 活性。",
+      "reading_note_zh": "该图将该机理转化为一种设计方案：在催化剂表面附近添加部分疏水成分，以稳定有利的半疏水*OH自由基环境，而无需仅依赖加热。",
+      "placed_near": "p.6 S019",
+      "extraction": "individual figure crop from source PDF"
     }
   ]
 }

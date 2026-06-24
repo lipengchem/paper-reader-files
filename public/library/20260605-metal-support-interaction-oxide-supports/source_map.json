@@ -142,5 +142,38 @@
       "placed_near": "p.4-5 S008",
       "confidence": "medium"
     }
-  ]
+  ],
+  "figures": [
+    {
+      "id": "F001",
+      "page": 2,
+      "file": "assets/fig1_msi_model.png",
+      "title": "Fig. 1. Formulation of the MSI model",
+      "caption": "Fig. 1. Formulation of the MSI model. (A) A derivable formula was identified through interpretable machine learning. (B) Collected experimental adhesion energies of metal-support systems from the literature. (C) Pearson correlations between the selected 14 primary features. (D) The descriptors Q(MO) and Q(MM'). (E) Recovered adhesion-energy map. (F) Predicted contact angles of all 675 metal-oxide interfaces.",
+      "caption_zh": "图 1 展示 MSI 模型的建立过程：先通过可解释机器学习得到可推导公式，再整理实验黏附能数据、筛选 14 个核心特征，构造 Q(MO) 与 Q(MM') 两个描述符，最终补全黏附能图谱并预测 675 个金属-氧化物界面的接触角。",
+      "placed_near": "p.2 S005 **Source:** p.2 F001 ![F001](assets/fig1_msi_model.png)",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F002",
+      "page": 3,
+      "file": "assets/fig2_msi_nature.png",
+      "title": "Fig. 2. Nature of the MSIs in different interfacial systems",
+      "caption": "Fig. 2. Nature of the MSIs and applications in different interfacial systems. The figure maps metal-oxide systems in the Q(MO)-Q(MM') space and shows how adsorption energies on oxygen-only, metal-only, or mixed bridge sites scale with the corresponding descriptors. It also extends the theory to FeO(111) films on late transition metals.",
+      "caption_zh": "图 2 把 MSI 的物理本质进一步展开：不同金属-氧化物体系在 Q(MO)-Q(MM') 空间中的位置，对应不同强度的界面相互作用；而金属原子只与氧成键、只与载体金属成键、或同时与二者成键时，吸附能分别对应不同的线性关系。作者还把这套理论推广到了 FeO(111) 薄膜/金属模型体系。",
+      "placed_near": "p.3-4 S007 **Source:** p.3 F002 ![F002](assets/fig2_msi_nature.png)",
+      "extraction": "individual figure crop from source PDF"
+    },
+    {
+      "id": "F003",
+      "page": 4,
+      "file": "assets/fig3_encapsulation.png",
+      "title": "Fig. 3. Strong MMIs and encapsulation occurrence",
+      "caption": "Fig. 3. Strong MMIs and encapsulation occurrence. The figure shows MD simulations of Pt, Pd, Rh, and Ru clusters on TiO2(011) with oxygen vacancies, RDF fingerprints of encapsulation, diffusion coefficients of migrating support-metal atoms, and the criterion comparing Q(MM') with the self-affinity of the oxide metal.",
+      "caption_zh": "图 3 是全文最关键的机制图：它展示了 TiO2(011) 负载 Pt、Pd、Rh、Ru 团簇时的 MD 包覆过程，给出包覆前后 RDF 指纹、迁移原子的扩散系数，以及用 Q(MM') 与载体金属自身亲和比较来判断包覆是否发生的判据。",
+      "placed_near": "p.4-5 S008 **Source:** p.4 F003 ![F003](assets/fig3_encapsulation.png)",
+      "extraction": "individual figure crop from source PDF"
+    }
+  ],
+  "figure_count": 3
 }
