@@ -25,3 +25,8 @@
 
 - Some symbols in the PDF extraction, especially prime marks and superscripts in equations, are normalized in prose form for readability.
 - Figure captions were condensed slightly while keeping the scientific meaning, because raw publisher extraction included broken glyphs and layout artifacts.
+
+## 2026-06-25 Quality Audit
+
+- Rechecked against the `nature-reader` contract: paragraph-level bilingual pairs, figure cards, `source_map.json`, and image links all pass structural validation.
+- Removed publisher caption text from Fig. 3 image crop while preserving all figure panels, axes, legends, and plotted data.

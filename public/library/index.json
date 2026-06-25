@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:31:03.891Z",
+  "generatedAt": "2026-06-25T04:07:15.802554+00:00",
   "items": [
     {
       "slug": "20260611-band-matching-sulfur-electrocatalysts",
@@ -15,7 +15,7 @@
       "pdfPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.pdf",
       "markdownPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.md",
       "relatedReading": true,
-      "paragraphCount": 27,
+      "paragraphCount": 21,
       "figureCount": 6
     },
     {
@@ -84,7 +84,7 @@
       "pdfPath": "library/20260604-ml-potentials-heterogeneous-catalysis/paper.pdf",
       "markdownPath": "library/20260604-ml-potentials-heterogeneous-catalysis/paper.md",
       "relatedReading": true,
-      "paragraphCount": 32,
+      "paragraphCount": 28,
       "figureCount": 2
     },
     {
@@ -101,7 +101,7 @@
       "pdfPath": "library/20260605-metal-support-interaction-oxide-supports/paper.pdf",
       "markdownPath": "library/20260605-metal-support-interaction-oxide-supports/paper.md",
       "relatedReading": true,
-      "paragraphCount": 15,
+      "paragraphCount": 11,
       "figureCount": 3
     },
     {
@@ -118,8 +118,8 @@
       "pdfPath": "library/20260609-proton-transport-water-sequential-hbond-exchange/paper.pdf",
       "markdownPath": "library/20260609-proton-transport-water-sequential-hbond-exchange/paper.md",
       "relatedReading": true,
-      "paragraphCount": 22,
-      "figureCount": 4
+      "paragraphCount": 68,
+      "figureCount": 9
     },
     {
       "slug": "20260611-bubble-water-triphase-photocatalytic-oer",
@@ -136,7 +136,7 @@
       "markdownPath": "library/20260611-bubble-water-triphase-photocatalytic-oer/paper.md",
       "relatedReading": true,
       "paragraphCount": 45,
-      "figureCount": 9
+      "figureCount": 4
     }
   ]
 }

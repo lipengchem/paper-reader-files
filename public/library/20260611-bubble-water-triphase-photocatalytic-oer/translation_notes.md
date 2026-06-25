@@ -8,3 +8,9 @@
 - Machine translation was used as a draft translation aid; terminology, front matter, guide text, and related-reading decisions were curated for the user's reading workflow.
 
 2026-06-24 repair: replaced full-page visual references with individual figure crops for Fig. 1-Fig. 4 and placed each figure near its substantive discussion paragraph.
+
+## 2026-06-25 Quality Audit
+
+- Rechecked against the `nature-reader` contract: paragraph-level bilingual pairs, figure cards, `source_map.json`, and image links all pass structural validation.
+- Re-cropped Fig. 1-Fig. 4 from the source PDF/figure regions so that axes, tick labels, legends, and panel labels remain visible.
+- Removed publisher caption text from Fig. 1 because captions are already represented in the Markdown figure card.
