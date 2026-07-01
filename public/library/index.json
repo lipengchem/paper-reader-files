@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:07:15.802554+00:00",
+  "generatedAt": "2026-07-01T09:41:03.020Z",
   "items": [
     {
       "slug": "20260611-band-matching-sulfur-electrocatalysts",
@@ -15,8 +15,25 @@
       "pdfPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.pdf",
       "markdownPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.md",
       "relatedReading": true,
-      "paragraphCount": 21,
+      "paragraphCount": 27,
       "figureCount": 6
+    },
+    {
+      "slug": "20260702-charge-separation-hot-spots-ru-ni-zro2",
+      "title": "Charge Separation and/or Hot Spots: Clarification of Efficient CO2 Reduction over Ru-Ni Nanoparticles Compared to Photocatalysis on Ru-Ni-ZrO2 Composites",
+      "date": "2026-04-08",
+      "taskDate": "2026-07-02",
+      "uploadedAt": "2026-07-01T09:41:03.020Z",
+      "journal": "Journal of the American Chemical Society",
+      "zoteroKey": "XPNDGRHB",
+      "collections": [
+        "02??/??????"
+      ],
+      "pdfPath": "library/20260702-charge-separation-hot-spots-ru-ni-zro2/paper.pdf",
+      "markdownPath": "library/20260702-charge-separation-hot-spots-ru-ni-zro2/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 22,
+      "figureCount": 5
     },
     {
       "slug": "20260611-bep-mxenes-water-gas-shift",
@@ -84,7 +101,7 @@
       "pdfPath": "library/20260604-ml-potentials-heterogeneous-catalysis/paper.pdf",
       "markdownPath": "library/20260604-ml-potentials-heterogeneous-catalysis/paper.md",
       "relatedReading": true,
-      "paragraphCount": 28,
+      "paragraphCount": 32,
       "figureCount": 2
     },
     {
@@ -101,7 +118,7 @@
       "pdfPath": "library/20260605-metal-support-interaction-oxide-supports/paper.pdf",
       "markdownPath": "library/20260605-metal-support-interaction-oxide-supports/paper.md",
       "relatedReading": true,
-      "paragraphCount": 11,
+      "paragraphCount": 15,
       "figureCount": 3
     },
     {
