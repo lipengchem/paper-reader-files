@@ -1,4 +1,4 @@
-# Redefining ·CO3– Formation Chemistry: Zundel-like Switches Drive Carbonate-·OH Interfacial Reactivity
+# Redefining ·CO3− Formation Chemistry: Zundel-like Switches Drive Carbonate-·OH Interfacial Reactivity
 
 **Zotero key:** 8R59K9XG
 **Attachment key:** 96MIVQKT
