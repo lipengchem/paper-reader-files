@@ -1,22 +1,35 @@
 {
-  "generatedAt": "2026-07-01T09:41:03.020Z",
+  "generatedAt": "2026-07-02T08:24:03.657Z",
   "items": [
     {
-      "slug": "20260611-band-matching-sulfur-electrocatalysts",
-      "title": "A Band-Matching Descriptor Breaks Scaling Relations for Sulfur Electrocatalysts",
-      "date": "2026-05-13",
-      "taskDate": "2026-06-11",
-      "uploadedAt": "2026-06-12T07:31:03.891Z",
+      "slug": "20260702-redefining-co3-formation-zundel-switches",
+      "title": "Redefining ?CO3? Formation Chemistry: Zundel-like Switches Drive Carbonate-?OH Interfacial Reactivity",
+      "date": "2026-06-17",
+      "taskDate": "2026-07-02",
+      "uploadedAt": "2026-07-02T08:24:03.657Z",
       "journal": "Journal of the American Chemical Society",
-      "zoteroKey": "EHSLLWP7",
-      "collections": [
-        "06Recommendation"
-      ],
-      "pdfPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.pdf",
-      "markdownPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.md",
+      "zoteroKey": "8R59K9XG",
+      "collections": [],
+      "pdfPath": "library/20260702-redefining-co3-formation-zundel-switches/paper.pdf",
+      "markdownPath": "library/20260702-redefining-co3-formation-zundel-switches/paper.md",
       "relatedReading": true,
-      "paragraphCount": 27,
-      "figureCount": 6
+      "paragraphCount": 41,
+      "figureCount": 5
+    },
+    {
+      "slug": "20260702-hydroxyl-radicals-hydrogen-transfer",
+      "title": "Mobility Mechanism of Hydroxyl Radicals in Aqueous Solution via Hydrogen Transfer",
+      "date": "2011-12-05",
+      "taskDate": "2026-07-02",
+      "uploadedAt": "2026-07-02T08:24:03.657Z",
+      "journal": "Journal of the American Chemical Society",
+      "zoteroKey": "C5VF7EZX",
+      "collections": [],
+      "pdfPath": "library/20260702-hydroxyl-radicals-hydrogen-transfer/paper.pdf",
+      "markdownPath": "library/20260702-hydroxyl-radicals-hydrogen-transfer/paper.md",
+      "relatedReading": false,
+      "paragraphCount": 32,
+      "figureCount": 5
     },
     {
       "slug": "20260702-charge-separation-hot-spots-ru-ni-zro2",
@@ -34,6 +47,23 @@
       "relatedReading": true,
       "paragraphCount": 22,
       "figureCount": 5
+    },
+    {
+      "slug": "20260611-band-matching-sulfur-electrocatalysts",
+      "title": "A Band-Matching Descriptor Breaks Scaling Relations for Sulfur Electrocatalysts",
+      "date": "2026-05-13",
+      "taskDate": "2026-06-11",
+      "uploadedAt": "2026-06-12T07:31:03.891Z",
+      "journal": "Journal of the American Chemical Society",
+      "zoteroKey": "EHSLLWP7",
+      "collections": [
+        "06Recommendation"
+      ],
+      "pdfPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.pdf",
+      "markdownPath": "library/20260611-band-matching-sulfur-electrocatalysts/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 27,
+      "figureCount": 6
     },
     {
       "slug": "20260611-bep-mxenes-water-gas-shift",
