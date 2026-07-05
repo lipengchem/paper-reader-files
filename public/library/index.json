@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-02T08:24:03.657Z",
+  "generatedAt": "2026-07-05T12:56:08Z",
   "items": [
+    {
+      "slug": "20260705-free-energy-proton-transfer-water-tio2",
+      "title": "Free energy of proton transfer at the water-TiO2 interface from ab initio deep potential molecular dynamics",
+      "date": "2020-01-28",
+      "taskDate": "2026-07-05",
+      "uploadedAt": "2026-07-05T12:56:08Z",
+      "journal": "Chemical Science",
+      "zoteroKey": "HYZYYYHR",
+      "collections": [],
+      "pdfPath": "library/20260705-free-energy-proton-transfer-water-tio2/paper.pdf",
+      "markdownPath": "library/20260705-free-energy-proton-transfer-water-tio2/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 65,
+      "figureCount": 4
+    },
     {
       "slug": "20260702-redefining-co3-formation-zundel-switches",
       "title": "Redefining ·CO3− Formation Chemistry: Zundel-like Switches Drive Carbonate-·OH Interfacial Reactivity",
