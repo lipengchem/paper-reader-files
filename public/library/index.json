@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-07T12:00:00Z",
+  "generatedAt": "2026-07-07T16:59:43Z",
   "items": [
+    {
+      "slug": "20260707-reorientation-mechanism-hydroxide-ions-water",
+      "title": "The reorientation mechanism of hydroxide ions in water: A molecular dynamics study",
+      "date": "2009-04-28",
+      "taskDate": "2026-07-07",
+      "uploadedAt": "2026-07-07T16:59:43Z",
+      "journal": "Chemical Physics Letters",
+      "zoteroKey": "ZC65UUZ7",
+      "collections": [],
+      "pdfPath": "library/20260707-reorientation-mechanism-hydroxide-ions-water/paper.pdf",
+      "markdownPath": "library/20260707-reorientation-mechanism-hydroxide-ions-water/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 72,
+      "figureCount": 7
+    },
+    {
+      "slug": "20260707-hydroxide-diffuses-slower-than-hydronium",
+      "title": "Hydroxide diffuses slower than hydronium in water because its solvated structure inhibits correlated proton transfer",
+      "date": "2018-10-22",
+      "taskDate": "2026-07-07",
+      "uploadedAt": "2026-07-07T16:59:43Z",
+      "journal": "Nature Chemistry",
+      "zoteroKey": "2GSY9S3R",
+      "collections": [],
+      "pdfPath": "library/20260707-hydroxide-diffuses-slower-than-hydronium/paper.pdf",
+      "markdownPath": "library/20260707-hydroxide-diffuses-slower-than-hydronium/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 108,
+      "figureCount": 4
+    },
+    {
+      "slug": "20260707-proton-solvation-transport-aqueous-biomolecular",
+      "title": "Proton Solvation and Transport in Aqueous and Biomolecular Systems: Insights from Computer Simulations",
+      "date": "2007-05-05",
+      "taskDate": "2026-07-07",
+      "uploadedAt": "2026-07-07T16:59:43Z",
+      "journal": "The Journal of Physical Chemistry B",
+      "zoteroKey": "86XBHE8Y",
+      "collections": [],
+      "pdfPath": "library/20260707-proton-solvation-transport-aqueous-biomolecular/paper.pdf",
+      "markdownPath": "library/20260707-proton-solvation-transport-aqueous-biomolecular/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 207,
+      "figureCount": 9
+    },
     {
       "slug": "20260707-protons-hydroxide-ions-aqueous-systems",
       "title": "Protons and Hydroxide Ions in Aqueous Systems",
