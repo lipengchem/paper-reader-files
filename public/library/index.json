@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-07T03:06:21Z",
+  "generatedAt": "2026-07-07T12:00:00Z",
   "items": [
+    {
+      "slug": "20260707-protons-hydroxide-ions-aqueous-systems",
+      "title": "Protons and Hydroxide Ions in Aqueous Systems",
+      "date": "2016-12-27",
+      "taskDate": "2026-07-07",
+      "uploadedAt": "2026-07-07T12:00:00Z",
+      "journal": "Chemical Reviews",
+      "zoteroKey": "QUT75QES",
+      "collections": [],
+      "pdfPath": "library/20260707-protons-hydroxide-ions-aqueous-systems/paper.pdf",
+      "markdownPath": "library/20260707-protons-hydroxide-ions-aqueous-systems/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 206,
+      "figureCount": 37
+    },
     {
       "slug": "20260707-hydrated-hydroxide-ions-aqueous-solution",
       "title": "The nature and transport mechanism of hydrated hydroxide ions in aqueous solution",
