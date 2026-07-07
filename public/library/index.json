@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-05T12:56:08Z",
+  "generatedAt": "2026-07-07T03:06:21Z",
   "items": [
+    {
+      "slug": "20260707-hydrated-hydroxide-ions-aqueous-solution",
+      "title": "The nature and transport mechanism of hydrated hydroxide ions in aqueous solution",
+      "date": "2002-06-27",
+      "taskDate": "2026-07-07",
+      "uploadedAt": "2026-07-07T03:06:21Z",
+      "journal": "Nature",
+      "zoteroKey": "QXM43Q3S",
+      "collections": [],
+      "pdfPath": "library/20260707-hydrated-hydroxide-ions-aqueous-solution/paper.pdf",
+      "markdownPath": "library/20260707-hydrated-hydroxide-ions-aqueous-solution/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 33,
+      "figureCount": 4
+    },
     {
       "slug": "20260705-free-energy-proton-transfer-water-tio2",
       "title": "Free energy of proton transfer at the water-TiO2 interface from ab initio deep potential molecular dynamics",
