@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-20T04:46:08.669Z",
+  "generatedAt": "2026-07-20T07:32:54.759Z",
   "items": [
+    {
+      "slug": "20260720-grotthuss-mechanism",
+      "title": "Grotthuss Mechanism",
+      "date": "2026-07-20",
+      "taskDate": "2026-07-20",
+      "uploadedAt": "2026-07-20T07:32:54.759Z",
+      "journal": "Unknown journal",
+      "zoteroKey": "",
+      "collections": [],
+      "pdfPath": "library/20260720-grotthuss-mechanism/paper.pdf",
+      "markdownPath": "library/20260720-grotthuss-mechanism/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 90,
+      "figureCount": 2
+    },
+    {
+      "slug": "20260720-nature-hydrated-excess-proton-water",
+      "title": "Nature Hydrated Excess Proton Water",
+      "date": "2026-07-20",
+      "taskDate": "2026-07-20",
+      "uploadedAt": "2026-07-20T07:32:54.759Z",
+      "journal": "Unknown journal",
+      "zoteroKey": "",
+      "collections": [],
+      "pdfPath": "library/20260720-nature-hydrated-excess-proton-water/paper.pdf",
+      "markdownPath": "library/20260720-nature-hydrated-excess-proton-water/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 30,
+      "figureCount": 3
+    },
+    {
+      "slug": "20260720-solvation-structure-hydrated-excess-proton",
+      "title": "Solvation Structure Hydrated Excess Proton",
+      "date": "2026-07-20",
+      "taskDate": "2026-07-20",
+      "uploadedAt": "2026-07-20T07:32:54.759Z",
+      "journal": "Unknown journal",
+      "zoteroKey": "",
+      "collections": [],
+      "pdfPath": "library/20260720-solvation-structure-hydrated-excess-proton/paper.pdf",
+      "markdownPath": "library/20260720-solvation-structure-hydrated-excess-proton/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 30,
+      "figureCount": 5
+    },
     {
       "slug": "20260702-redefining-co3-formation-zundel-switches",
       "title": "Redefining ·CO3– Formation Chemistry: Zundel-like Switches Drive Carbonate-·OH Interfacial Reactivity",
