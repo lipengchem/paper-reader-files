@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:42:08.706Z",
+  "generatedAt": "2026-07-20T15:47:05.783Z",
   "items": [
     {
       "slug": "20260702-redefining-co3-formation-zundel-switches",
@@ -387,6 +387,23 @@
       "relatedReading": true,
       "paragraphCount": 90,
       "figureCount": 2
+    },
+    {
+      "slug": "20260720-water-interactions-terminal-hydroxyls-tio2-110",
+      "title": "Water Interactions with Terminal Hydroxyls on TiO2(110)",
+      "date": "2010-10-14",
+      "taskDate": "2026-07-20",
+      "uploadedAt": "2026-07-20T15:47:05.783Z",
+      "journal": "JPCC",
+      "zoteroKey": "PVGN46VV",
+      "collections": [
+        "M3V6T5IZ"
+      ],
+      "pdfPath": "library/20260720-water-interactions-terminal-hydroxyls-tio2-110/paper.pdf",
+      "markdownPath": "library/20260720-water-interactions-terminal-hydroxyls-tio2-110/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 20,
+      "figureCount": 6
     }
   ]
 }
