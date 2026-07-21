@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:47:05.783Z",
+  "generatedAt": "2026-07-21T12:55:43+08:00",
   "items": [
     {
       "slug": "20260702-redefining-co3-formation-zundel-switches",
@@ -404,6 +404,23 @@
       "relatedReading": true,
       "paragraphCount": 20,
       "figureCount": 6
+    },
+    {
+      "slug": "20260721-constrained-density-functional-theory-proton-transfers",
+      "title": "Using Constrained Density Functional Theory to Track Proton Transfers and to Sample Their Associated Free Energy Surface",
+      "date": "2021-09-01",
+      "taskDate": "2026-07-21",
+      "uploadedAt": "2026-07-21T12:55:43+08:00",
+      "journal": "Journal of Chemical Theory and Computation",
+      "zoteroKey": "YFTNHP5I",
+      "collections": [
+        "质子转移"
+      ],
+      "pdfPath": "library/20260721-constrained-density-functional-theory-proton-transfers/paper.pdf",
+      "markdownPath": "library/20260721-constrained-density-functional-theory-proton-transfers/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 22,
+      "figureCount": 3
     }
   ]
 }
