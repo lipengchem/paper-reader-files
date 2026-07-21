@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:55:43+08:00",
+  "generatedAt": "2026-07-21T23:43:18+08:00",
   "items": [
     {
       "slug": "20260702-redefining-co3-formation-zundel-switches",
@@ -421,6 +421,23 @@
       "relatedReading": true,
       "paragraphCount": 22,
       "figureCount": 3
+    },
+    {
+      "slug": "20260721-weakened-interfacial-hbond-connectivity-brookite-h2o2",
+      "title": "Weakened Interfacial Hydrogen Bond Connectivity Drives Selective Photocatalytic Water Oxidation toward H2O2 at Water/Brookite-TiO2 Interface",
+      "date": "2024-03-06",
+      "taskDate": "2026-07-21",
+      "uploadedAt": "2026-07-21T23:43:18+08:00",
+      "journal": "Journal of the American Chemical Society",
+      "zoteroKey": "TWNWAP3Y",
+      "collections": [
+        "光热催化研究"
+      ],
+      "pdfPath": "library/20260721-weakened-interfacial-hbond-connectivity-brookite-h2o2/paper.pdf",
+      "markdownPath": "library/20260721-weakened-interfacial-hbond-connectivity-brookite-h2o2/paper.md",
+      "relatedReading": true,
+      "paragraphCount": 29,
+      "figureCount": 6
     }
   ]
 }
